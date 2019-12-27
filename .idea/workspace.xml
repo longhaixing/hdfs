@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd4b261b-a715-42c6-b21d-0165a1a26509" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/outputformat/MyOutputFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/outputformat/MyRecordWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/outputformat/OutputDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reducejoin/joinComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reducejoin/joinDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reducejoin/joinMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reducejoin/joinReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reducejoin/orderBean.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -189,6 +190,14 @@
       <option name="presentableId" value="Default" />
       <updated>1577331333900</updated>
     </task>
+    <task id="LOCAL-00001" summary="new commit">
+      <created>1577435273823</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577435273823</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,5 +242,9 @@
         <option value="1" />
       </set>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
   </component>
 </project>
